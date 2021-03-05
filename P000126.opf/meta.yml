@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000126
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྤྲུལ་པའི་གཏེར་སྟོན་ཆེན་མོའི་རྣམ་ཐར་གྱི་ས་བོན་ཞལ་གསུང་མ་དང་། གཏེར་འབྱུང་འགའ་ཞིག་འབེལ་གཏམ་སྣ་ཚོགས་བཅས་ཕྱོགས་བསྡོམས་རྒྱལ་བསྟན་ཉིན་བྱེད་འོད་སྣང་ཞེས་བྱ་བ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས། འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ། མཆོག་གླིང་རང་གྲྭ་རྒན་པོ་པདྨ་ཡེ་ཤེས།
-  sku: SHE-RTD-006
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: SHE-RTD-006
 web_metadata:
   title:
     en: The Collected Biographies of Chokgyur Dechen Lingpa
